@@ -20,7 +20,10 @@ I'm a passionate developer from India who loves to work on MERN stack projects.
 
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aryan-manjarekar-/)
+<a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
+  <img src="https://wisetrolley.com/wp-content/uploads/2023/03/Linkedin-Logo-T-shirt-Black-2.jpg" alt="LinkedIn" width="50" height="50"/>
+</a>
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/LegendCoder20)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LegendCoder20&color=yellow)
