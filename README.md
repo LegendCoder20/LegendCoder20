@@ -20,10 +20,9 @@ I'm a passionate developer from India who loves to work on MERN stack projects.
 
 
 ### 📫 Connect with Me:
-<a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
-  <img src="https://wisetrolley.com/wp-content/uploads/2023/03/Linkedin-Logo-T-shirt-Black-2.jpg" alt="LinkedIn" width="50" height="50"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/LegendCoder20)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-20232A?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/your-username)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LegendCoder20&color=yellow)
