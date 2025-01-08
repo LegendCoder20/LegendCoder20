@@ -1,6 +1,6 @@
 # Hi there, I'm Aryan Manjarekar A Legendary Coder 👋
 
-I'm a passionate developer from India 🇮🇳 who loves to work on MERN stack projects.
+I'm a passionate developer from India who loves to work on MERN stack projects.
 
 ### 🛠️ Tech Stack:
 
