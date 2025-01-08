@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm LegendCoder20 👋
 
-<!--
-**LegendCoder20/LegendCoder20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer from India 🇮🇳 who loves to work on MERN stack projects.
 
-Here are some ideas to get you started:
+### 🛠 My Tech Stack:
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![React](https://img.shields.io/badge/React-blue)
+![Node.js](https://img.shields.io/badge/Node.js-green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/LegendCoder20)
+
+![Profile Views](https://komarev.com/ghpvc/?username=LegendCoder20&color=yellow)
