@@ -22,7 +22,7 @@ I'm a passionate developer from India who loves to work on MERN stack projects.
 
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
-[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-F6A40D?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-manjarekar-/)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-F6A40D?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/LegendCoder20)
 
 
