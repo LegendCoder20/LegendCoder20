@@ -24,5 +24,3 @@ I'm a passionate developer from India who loves to work on MERN stack projects.
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-F6A40D?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/your-username)
 
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=LegendCoder20&color=yellow)
